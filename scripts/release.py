@@ -293,6 +293,7 @@ AUTHOR_MAP = {
     "jarvischer@gmail.com": "maxchernin",
     "levantam.98.2324@gmail.com": "LVT382009",
     "zhurongcheng@rcrai.com": "heykb",
+    "166376523+sjz-ks@users.noreply.github.com": "sjz-ks",
 }
 
 
